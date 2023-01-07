@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PronteraWatch", "PronteraWatch\PronteraWatch.csproj", "{F5BB293A-97D8-4B4E-8C08-DF324B8FFE5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibProntera", "LibProntera\LibProntera.csproj", "{04A9FA1C-A985-4F29-A94E-915298ADC0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BB293A-97D8-4B4E-8C08-DF324B8FFE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB293A-97D8-4B4E-8C08-DF324B8FFE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB293A-97D8-4B4E-8C08-DF324B8FFE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB293A-97D8-4B4E-8C08-DF324B8FFE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A9FA1C-A985-4F29-A94E-915298ADC0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A9FA1C-A985-4F29-A94E-915298ADC0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A9FA1C-A985-4F29-A94E-915298ADC0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A9FA1C-A985-4F29-A94E-915298ADC0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6868DBF3-0611-424E-AFEC-9A5CF9C948F3}
+	EndGlobalSection
+EndGlobal
